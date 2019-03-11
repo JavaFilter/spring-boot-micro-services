@@ -35,6 +35,11 @@
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
+        </dependency>
+
         <!--监控和管理生产模块配置-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
