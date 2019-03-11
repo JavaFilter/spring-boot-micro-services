@@ -23,7 +23,6 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
-
         </dependency>
         <!--Spring boot 2.0之后安全匹配不可在定制-->
         <!--<dependency>
